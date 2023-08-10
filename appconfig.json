@@ -3,7 +3,7 @@
 	"description": "Necrosis buff enlarger",
 	"appUrl":"./",
 	"configUrl":"./appconfig.json",
-	"iconUrl": "images/necrosis.data.png",
+	"iconUrl": "images/bolg.data.png",
 	"defaultWidth": 100,
 	"defaultHeight": 100,
 	"minWidth": 0,
